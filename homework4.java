@@ -13,12 +13,12 @@ public class homework4 {
 		int b = sc.nextInt();
 		int c = sc.nextInt();
 		
-		if(b>a && a>c)
+		if((b>a && a>c)|| (c>a && a>b))
 		{
 			System.out.print("중간 값은 " +a);
 		;}
 		
-		else if (a>b && b>c) {
+		else if ((a>b && b>c)||(c>b&& c>a)) {
 			System.out.print("중간 값은 " + b);
 		}
 		else {
