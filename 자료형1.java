@@ -1,7 +1,7 @@
 import java.util.Scanner; //scanner 클래스 호출;
 
 
-public class homework1 {
+public class 자료형1 {
 
 	public static void main(String[] args) {
 		

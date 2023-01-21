@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class homework2 {
+public class 자료형2 {
 
 	public static void main(String[] args) 
 	{
