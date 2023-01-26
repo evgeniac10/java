@@ -14,6 +14,7 @@ public class 배열 {
 
 		//System.out.println(변수이름[색인]);
 
+		
 	}
 
 }
